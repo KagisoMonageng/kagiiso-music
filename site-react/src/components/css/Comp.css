@@ -1,0 +1,23 @@
+.menu li a{
+    font-weight: 400;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+p{
+    margin-bottom: 20px;
+}
+
+
+.hero{
+    overflow: visible;
+}
+.hero-vinyl {
+    max-width: 400px;
+    bottom: -25%;
+    /* top: -27%;
+    left: -20%; */
+}
+
+/* p.about-text{
+    opacity: 0;
+} */
